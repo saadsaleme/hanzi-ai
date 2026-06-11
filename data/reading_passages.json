@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "title": "我的一天",
+    "titleEn": "My Day",
+    "text": "我每天六点起床。早上我喝水，吃米饭和鸡蛋。八点我去学校。老师很好，同学也很好。晚上我回家看书。",
+    "translation": "I get up at six every day. In the morning I drink water and eat rice and eggs. At eight I go to school. The teacher is good, and my classmates are good too. In the evening I go home and read.",
+    "words": {
+      "每天": { "pinyin": "měi tiān", "meaning": "every day", "grammar": "time" },
+      "起床": { "pinyin": "qǐ chuáng", "meaning": "get up", "grammar": "verb" },
+      "早上": { "pinyin": "zǎo shang", "meaning": "morning", "grammar": "time" },
+      "喝水": { "pinyin": "hē shuǐ", "meaning": "drink water", "grammar": "verb phrase" },
+      "学校": { "pinyin": "xué xiào", "meaning": "school", "grammar": "noun" },
+      "老师": { "pinyin": "lǎo shī", "meaning": "teacher", "grammar": "noun" },
+      "同学": { "pinyin": "tóng xué", "meaning": "classmate", "grammar": "noun" },
+      "晚上": { "pinyin": "wǎn shang", "meaning": "evening", "grammar": "time" },
+      "回家": { "pinyin": "huí jiā", "meaning": "go home", "grammar": "verb phrase" },
+      "看书": { "pinyin": "kàn shū", "meaning": "read", "grammar": "verb phrase" }
+    }
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "title": "我的家人",
+    "titleEn": "My Family",
+    "text": "我家有四口人：爸爸、妈妈、哥哥和我。爸爸是医生，妈妈是老师。哥哥在大学学习中文。我们都很爱这个家。",
+    "translation": "There are four people in my family: dad, mom, my older brother, and me. Dad is a doctor, and mom is a teacher. My older brother studies Chinese at university. We all love this home.",
+    "words": {
+      "家": { "pinyin": "jiā", "meaning": "home/family", "grammar": "noun" },
+      "四口人": { "pinyin": "sì kǒu rén", "meaning": "four family members", "grammar": "measure phrase" },
+      "爸爸": { "pinyin": "bà ba", "meaning": "father", "grammar": "noun" },
+      "妈妈": { "pinyin": "mā ma", "meaning": "mother", "grammar": "noun" },
+      "哥哥": { "pinyin": "gē ge", "meaning": "older brother", "grammar": "noun" },
+      "医生": { "pinyin": "yī shēng", "meaning": "doctor", "grammar": "noun" },
+      "大学": { "pinyin": "dà xué", "meaning": "university", "grammar": "noun" },
+      "学习": { "pinyin": "xué xí", "meaning": "study", "grammar": "verb" },
+      "中文": { "pinyin": "Zhōng wén", "meaning": "Chinese language", "grammar": "noun" },
+      "爱": { "pinyin": "ài", "meaning": "love", "grammar": "verb" }
+    }
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "title": "买水果",
+    "titleEn": "Buying Fruit",
+    "text": "今天下午我和朋友去商店。苹果很大，香蕉也很好。朋友买了三个苹果，我买了两杯茶。我们都很高兴。",
+    "translation": "This afternoon my friend and I went to the store. The apples were big, and the bananas were also good. My friend bought three apples, and I bought two cups of tea. We were both happy.",
+    "words": {
+      "今天下午": { "pinyin": "jīn tiān xià wǔ", "meaning": "this afternoon", "grammar": "time" },
+      "朋友": { "pinyin": "péng you", "meaning": "friend", "grammar": "noun" },
+      "商店": { "pinyin": "shāng diàn", "meaning": "shop", "grammar": "noun" },
+      "苹果": { "pinyin": "píng guǒ", "meaning": "apple", "grammar": "noun" },
+      "香蕉": { "pinyin": "xiāng jiāo", "meaning": "banana", "grammar": "noun" },
+      "买了": { "pinyin": "mǎi le", "meaning": "bought", "grammar": "completed action" },
+      "三个": { "pinyin": "sān ge", "meaning": "three", "grammar": "number + measure" },
+      "两杯茶": { "pinyin": "liǎng bēi chá", "meaning": "two cups of tea", "grammar": "measure phrase" },
+      "高兴": { "pinyin": "gāo xìng", "meaning": "happy", "grammar": "adjective" }
+    }
+  },
+  {
+    "id": 4,
+    "level": 2,
+    "title": "周末计划",
+    "titleEn": "Weekend Plan",
+    "text": "这个周末我想和朋友一起去公园。上午我们打篮球，下午看电影。如果下雨，我们就在家里做饭、聊天。",
+    "translation": "This weekend I want to go to the park with my friends. In the morning we will play basketball, and in the afternoon we will watch a movie. If it rains, we will cook and chat at home.",
+    "words": {
+      "周末": { "pinyin": "zhōu mò", "meaning": "weekend", "grammar": "time" },
+      "想": { "pinyin": "xiǎng", "meaning": "would like", "grammar": "modal verb" },
+      "一起": { "pinyin": "yì qǐ", "meaning": "together", "grammar": "adverb" },
+      "公园": { "pinyin": "gōng yuán", "meaning": "park", "grammar": "noun" },
+      "上午": { "pinyin": "shàng wǔ", "meaning": "morning", "grammar": "time" },
+      "打篮球": { "pinyin": "dǎ lán qiú", "meaning": "play basketball", "grammar": "verb-object" },
+      "看电影": { "pinyin": "kàn diàn yǐng", "meaning": "watch a movie", "grammar": "verb-object" },
+      "如果": { "pinyin": "rú guǒ", "meaning": "if", "grammar": "conjunction" },
+      "下雨": { "pinyin": "xià yǔ", "meaning": "rain", "grammar": "verb-object" },
+      "聊天": { "pinyin": "liáo tiān", "meaning": "chat", "grammar": "verb" }
+    }
+  },
+  {
+    "id": 5,
+    "level": 2,
+    "title": "学习中文的原因",
+    "titleEn": "Why I Study Chinese",
+    "text": "我学习中文，因为我喜欢中国文化。中文不容易，但是很有意思。每天我用手机听课，也用电脑写汉字。",
+    "translation": "I study Chinese because I like Chinese culture. Chinese is not easy, but it is very interesting. Every day I use my phone to listen to lessons and my computer to write Chinese characters.",
+    "words": {
+      "因为": { "pinyin": "yīn wèi", "meaning": "because", "grammar": "conjunction" },
+      "喜欢": { "pinyin": "xǐ huan", "meaning": "like", "grammar": "verb" },
+      "文化": { "pinyin": "wén huà", "meaning": "culture", "grammar": "noun" },
+      "不容易": { "pinyin": "bù róng yì", "meaning": "not easy", "grammar": "adjective phrase" },
+      "有意思": { "pinyin": "yǒu yì si", "meaning": "interesting", "grammar": "adjective" },
+      "手机": { "pinyin": "shǒu jī", "meaning": "mobile phone", "grammar": "noun" },
+      "听课": { "pinyin": "tīng kè", "meaning": "attend/listen to class", "grammar": "verb-object" },
+      "电脑": { "pinyin": "diàn nǎo", "meaning": "computer", "grammar": "noun" },
+      "汉字": { "pinyin": "hàn zì", "meaning": "Chinese characters", "grammar": "noun" }
+    }
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "title": "看病",
+    "titleEn": "Seeing a Doctor",
+    "text": "昨天晚上我觉得身体不舒服，所以今天去医院看病。医生说我应该多喝水，少工作，早点休息。",
+    "translation": "Last night I felt unwell, so today I went to the hospital to see a doctor. The doctor said I should drink more water, work less, and rest earlier.",
+    "words": {
+      "觉得": { "pinyin": "jué de", "meaning": "feel/think", "grammar": "verb" },
+      "身体": { "pinyin": "shēn tǐ", "meaning": "body", "grammar": "noun" },
+      "不舒服": { "pinyin": "bù shū fu", "meaning": "uncomfortable/unwell", "grammar": "adjective" },
+      "所以": { "pinyin": "suǒ yǐ", "meaning": "therefore", "grammar": "conjunction" },
+      "医院": { "pinyin": "yī yuàn", "meaning": "hospital", "grammar": "noun" },
+      "看病": { "pinyin": "kàn bìng", "meaning": "see a doctor", "grammar": "verb-object" },
+      "应该": { "pinyin": "yīng gāi", "meaning": "should", "grammar": "modal verb" },
+      "多喝水": { "pinyin": "duō hē shuǐ", "meaning": "drink more water", "grammar": "verb phrase" },
+      "休息": { "pinyin": "xiū xi", "meaning": "rest", "grammar": "verb" }
+    }
+  },
+  {
+    "id": 7,
+    "level": 3,
+    "title": "保护环境",
+    "titleEn": "Protecting the Environment",
+    "text": "我们的城市发展很快，但是环境问题也越来越多。为了保护环境，很多人选择坐公共汽车或者骑自行车上班。",
+    "translation": "Our city is developing quickly, but environmental problems are also increasing. To protect the environment, many people choose to take the bus or ride a bicycle to work.",
+    "words": {
+      "城市": { "pinyin": "chéng shì", "meaning": "city", "grammar": "noun" },
+      "发展": { "pinyin": "fā zhǎn", "meaning": "develop", "grammar": "verb" },
+      "环境": { "pinyin": "huán jìng", "meaning": "environment", "grammar": "noun" },
+      "问题": { "pinyin": "wèn tí", "meaning": "problem", "grammar": "noun" },
+      "越来越多": { "pinyin": "yuè lái yuè duō", "meaning": "more and more", "grammar": "degree pattern" },
+      "为了": { "pinyin": "wèi le", "meaning": "in order to", "grammar": "preposition" },
+      "保护": { "pinyin": "bǎo hù", "meaning": "protect", "grammar": "verb" },
+      "选择": { "pinyin": "xuǎn zé", "meaning": "choose", "grammar": "verb" },
+      "公共汽车": { "pinyin": "gōng gòng qì chē", "meaning": "bus", "grammar": "noun" },
+      "自行车": { "pinyin": "zì xíng chē", "meaning": "bicycle", "grammar": "noun" }
+    }
+  },
+  {
+    "id": 8,
+    "level": 3,
+    "title": "一次面试",
+    "titleEn": "An Interview",
+    "text": "上星期我参加了一次面试。虽然我有点紧张，但是我回答了所有问题。经理觉得我的经验很有用，让我下个月开始工作。",
+    "translation": "Last week I attended an interview. Although I was a little nervous, I answered all the questions. The manager thought my experience was useful and asked me to start work next month.",
+    "words": {
+      "上星期": { "pinyin": "shàng xīng qī", "meaning": "last week", "grammar": "time" },
+      "参加": { "pinyin": "cān jiā", "meaning": "participate", "grammar": "verb" },
+      "面试": { "pinyin": "miàn shì", "meaning": "interview", "grammar": "noun/verb" },
+      "虽然": { "pinyin": "suī rán", "meaning": "although", "grammar": "conjunction" },
+      "有点": { "pinyin": "yǒu diǎn", "meaning": "a little", "grammar": "adverb" },
+      "紧张": { "pinyin": "jǐn zhāng", "meaning": "nervous", "grammar": "adjective" },
+      "回答": { "pinyin": "huí dá", "meaning": "answer", "grammar": "verb" },
+      "经理": { "pinyin": "jīng lǐ", "meaning": "manager", "grammar": "noun" },
+      "经验": { "pinyin": "jīng yàn", "meaning": "experience", "grammar": "noun" },
+      "有用": { "pinyin": "yǒu yòng", "meaning": "useful", "grammar": "adjective" }
+    }
+  },
+  {
+    "id": 9,
+    "level": 3,
+    "title": "运动习惯",
+    "titleEn": "Exercise Habits",
+    "text": "我以前很少运动，所以身体不太好。后来朋友告诉我，健康比工作更重要。现在我每天跑步半个小时，感觉精神好多了。",
+    "translation": "I used to exercise very little, so my health was not very good. Later a friend told me that health is more important than work. Now I run for half an hour every day and feel much more energetic.",
+    "words": {
+      "以前": { "pinyin": "yǐ qián", "meaning": "before", "grammar": "time" },
+      "运动": { "pinyin": "yùn dòng", "meaning": "exercise", "grammar": "verb/noun" },
+      "身体": { "pinyin": "shēn tǐ", "meaning": "body/health", "grammar": "noun" },
+      "后来": { "pinyin": "hòu lái", "meaning": "later", "grammar": "time" },
+      "健康": { "pinyin": "jiàn kāng", "meaning": "health", "grammar": "noun/adjective" },
+      "重要": { "pinyin": "zhòng yào", "meaning": "important", "grammar": "adjective" },
+      "跑步": { "pinyin": "pǎo bù", "meaning": "run", "grammar": "verb-object" },
+      "半个小时": { "pinyin": "bàn ge xiǎo shí", "meaning": "half an hour", "grammar": "duration" },
+      "感觉": { "pinyin": "gǎn jué", "meaning": "feel", "grammar": "verb" },
+      "精神": { "pinyin": "jīng shen", "meaning": "energy/spirit", "grammar": "noun" }
+    }
+  },
+  {
+    "id": 10,
+    "level": 4,
+    "title": "城市生活的压力",
+    "titleEn": "Pressure of City Life",
+    "text": "随着城市的发展，生活节奏变得越来越快。很多年轻人一方面希望获得更好的机会，另一方面也担心压力影响健康。",
+    "translation": "With the development of cities, the pace of life has become faster and faster. Many young people hope to gain better opportunities on one hand, and worry that pressure affects their health on the other.",
+    "words": {
+      "随着": { "pinyin": "suí zhe", "meaning": "along with", "grammar": "preposition" },
+      "发展": { "pinyin": "fā zhǎn", "meaning": "development", "grammar": "noun/verb" },
+      "节奏": { "pinyin": "jié zòu", "meaning": "rhythm/pace", "grammar": "noun" },
+      "变得": { "pinyin": "biàn de", "meaning": "become", "grammar": "verb complement" },
+      "年轻人": { "pinyin": "nián qīng rén", "meaning": "young people", "grammar": "noun" },
+      "一方面": { "pinyin": "yì fāng miàn", "meaning": "on one hand", "grammar": "connector" },
+      "获得": { "pinyin": "huò dé", "meaning": "obtain", "grammar": "verb" },
+      "机会": { "pinyin": "jī huì", "meaning": "opportunity", "grammar": "noun" },
+      "另一方面": { "pinyin": "lìng yì fāng miàn", "meaning": "on the other hand", "grammar": "connector" },
+      "压力": { "pinyin": "yā lì", "meaning": "pressure", "grammar": "noun" },
+      "影响": { "pinyin": "yǐng xiǎng", "meaning": "influence", "grammar": "verb/noun" }
+    }
+  },
+  {
+    "id": 11,
+    "level": 4,
+    "title": "传统节日",
+    "titleEn": "Traditional Festivals",
+    "text": "春节是中国最重要的传统节日之一。无论人们工作多忙，很多家庭都会尽量团聚，一起吃年夜饭，表达对新年的希望。",
+    "translation": "Spring Festival is one of China’s most important traditional festivals. No matter how busy people are at work, many families try to reunite, eat New Year’s Eve dinner together, and express hopes for the new year.",
+    "words": {
+      "春节": { "pinyin": "Chūn Jié", "meaning": "Spring Festival", "grammar": "noun" },
+      "传统": { "pinyin": "chuán tǒng", "meaning": "traditional", "grammar": "adjective/noun" },
+      "节日": { "pinyin": "jié rì", "meaning": "festival", "grammar": "noun" },
+      "之一": { "pinyin": "zhī yī", "meaning": "one of", "grammar": "structure" },
+      "无论": { "pinyin": "wú lùn", "meaning": "no matter", "grammar": "conjunction" },
+      "尽量": { "pinyin": "jǐn liàng", "meaning": "as much as possible", "grammar": "adverb" },
+      "团聚": { "pinyin": "tuán jù", "meaning": "reunite", "grammar": "verb" },
+      "年夜饭": { "pinyin": "nián yè fàn", "meaning": "New Year’s Eve dinner", "grammar": "noun" },
+      "表达": { "pinyin": "biǎo dá", "meaning": "express", "grammar": "verb" },
+      "希望": { "pinyin": "xī wàng", "meaning": "hope", "grammar": "noun/verb" }
+    }
+  },
+  {
+    "id": 12,
+    "level": 4,
+    "title": "学习方法",
+    "titleEn": "Study Methods",
+    "text": "学习语言不仅需要记住词语，而且需要不断使用。只有把新词放进真实的句子里，才能逐渐提高表达能力。",
+    "translation": "Learning a language requires not only memorizing words but also using them continuously. Only by putting new words into real sentences can you gradually improve expressive ability.",
+    "words": {
+      "不仅": { "pinyin": "bù jǐn", "meaning": "not only", "grammar": "connector" },
+      "词语": { "pinyin": "cí yǔ", "meaning": "words/terms", "grammar": "noun" },
+      "而且": { "pinyin": "ér qiě", "meaning": "and also", "grammar": "connector" },
+      "不断": { "pinyin": "bú duàn", "meaning": "continuously", "grammar": "adverb" },
+      "使用": { "pinyin": "shǐ yòng", "meaning": "use", "grammar": "verb" },
+      "只有": { "pinyin": "zhǐ yǒu", "meaning": "only if", "grammar": "conjunction" },
+      "放进": { "pinyin": "fàng jìn", "meaning": "put into", "grammar": "verb complement" },
+      "真实": { "pinyin": "zhēn shí", "meaning": "real", "grammar": "adjective" },
+      "逐渐": { "pinyin": "zhú jiàn", "meaning": "gradually", "grammar": "adverb" },
+      "提高": { "pinyin": "tí gāo", "meaning": "improve", "grammar": "verb" },
+      "表达能力": { "pinyin": "biǎo dá néng lì", "meaning": "expressive ability", "grammar": "noun phrase" }
+    }
+  }
+]

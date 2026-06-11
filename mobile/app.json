@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "HanZi AI",
+    "slug": "hanzi-ai-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "hanzi-ai",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hanzi.ai.mobile"
+    },
+    "android": {
+      "package": "com.hanzi.ai.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#060610"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "usesSupabase": true
+    }
+  }
+}

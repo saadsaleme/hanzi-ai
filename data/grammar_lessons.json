@@ -1,0 +1,269 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "title": "Basic SVO word order",
+    "rule": "The neutral Chinese sentence pattern is Subject + Verb + Object. Time and place normally come before the verb phrase.",
+    "examples": [
+      { "cn": "我喝水。", "py": "Wǒ hē shuǐ.", "en": "I drink water.", "breakdown": [{ "w": "我", "r": "wǒ", "t": "subject" }, { "w": "喝", "r": "hē", "t": "verb" }, { "w": "水", "r": "shuǐ", "t": "object" }] },
+      { "cn": "她学中文。", "py": "Tā xué Zhōngwén.", "en": "She studies Chinese.", "breakdown": [{ "w": "她", "r": "tā", "t": "subject" }, { "w": "学", "r": "xué", "t": "verb" }, { "w": "中文", "r": "Zhōngwén", "t": "object" }] }
+    ],
+    "mistakes": ["Wrong: 我水喝。", "Correct: 我喝水。"],
+    "tip": "Build simple sentences first, then add time, place, or manner before the verb."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "title": "是 for noun identity",
+    "rule": "Use 是 to say that one noun is another noun. Do not use 是 directly before ordinary adjectives.",
+    "examples": [
+      { "cn": "我是学生。", "py": "Wǒ shì xuésheng.", "en": "I am a student.", "breakdown": [{ "w": "我", "r": "wǒ", "t": "subject" }, { "w": "是", "r": "shì", "t": "linking verb" }, { "w": "学生", "r": "xuésheng", "t": "noun" }] }
+    ],
+    "mistakes": ["Wrong: 她是漂亮。", "Correct: 她很漂亮。"],
+    "tip": "For adjective predicates, Chinese often uses 很 even when English does not say very."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "title": "Adjectives with 很",
+    "rule": "Adjectives can act like verbs in Chinese. 很 often links the subject and adjective and may be neutral in meaning.",
+    "examples": [
+      { "cn": "天气很好。", "py": "Tiānqì hěn hǎo.", "en": "The weather is good.", "breakdown": [{ "w": "天气", "r": "tiānqì", "t": "subject" }, { "w": "很", "r": "hěn", "t": "link/intensifier" }, { "w": "好", "r": "hǎo", "t": "adjective" }] }
+    ],
+    "mistakes": ["Wrong: 天气是好。", "Correct: 天气很好。"],
+    "tip": "Use 太...了 when you truly mean too or very: 太好了！"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "title": "Questions with 吗",
+    "rule": "Add 吗 to the end of a statement to make a yes/no question.",
+    "examples": [
+      { "cn": "你是老师吗？", "py": "Nǐ shì lǎoshī ma?", "en": "Are you a teacher?", "breakdown": [{ "w": "你", "r": "nǐ", "t": "subject" }, { "w": "是", "r": "shì", "t": "verb" }, { "w": "老师", "r": "lǎoshī", "t": "noun" }, { "w": "吗", "r": "ma", "t": "question particle" }] }
+    ],
+    "mistakes": ["Wrong: 吗你是老师？", "Correct: 你是老师吗？"],
+    "tip": "Keep normal statement order; 吗 does the question work."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "title": "的 for possession",
+    "rule": "Use 的 after a possessor or modifier before a noun.",
+    "examples": [
+      { "cn": "这是我的书。", "py": "Zhè shì wǒ de shū.", "en": "This is my book.", "breakdown": [{ "w": "这", "r": "zhè", "t": "this" }, { "w": "是", "r": "shì", "t": "is" }, { "w": "我的", "r": "wǒ de", "t": "my" }, { "w": "书", "r": "shū", "t": "book" }] }
+    ],
+    "mistakes": ["Wrong: 这是我书。", "Correct: 这是我的书。"],
+    "tip": "的 is often dropped with close relationships: 我妈妈, 我家."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "title": "Measure words",
+    "rule": "Numbers and demonstratives normally need a measure word before a noun.",
+    "examples": [
+      { "cn": "我有三个朋友。", "py": "Wǒ yǒu sān ge péngyou.", "en": "I have three friends.", "breakdown": [{ "w": "我有", "r": "wǒ yǒu", "t": "I have" }, { "w": "三", "r": "sān", "t": "number" }, { "w": "个", "r": "ge", "t": "measure word" }, { "w": "朋友", "r": "péngyou", "t": "noun" }] }
+    ],
+    "mistakes": ["Wrong: 三朋友", "Correct: 三个朋友"],
+    "tip": "个 is the default measure word, but common nouns have their own: 本书, 杯茶, 张纸."
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "title": "了 for completed actions",
+    "rule": "了 after a verb can mark a completed action, especially when the action has a clear object, amount, or result.",
+    "examples": [
+      { "cn": "我买了一本书。", "py": "Wǒ mǎi le yì běn shū.", "en": "I bought a book.", "breakdown": [{ "w": "我", "r": "wǒ", "t": "subject" }, { "w": "买", "r": "mǎi", "t": "verb" }, { "w": "了", "r": "le", "t": "completion" }, { "w": "一本书", "r": "yì běn shū", "t": "object" }] }
+    ],
+    "mistakes": ["Wrong: 了 only means past tense.", "Correct: 了 marks completion or change, not tense by itself."],
+    "tip": "Past time words can appear without 了 when the sentence is descriptive or habitual."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "title": "Sentence-final 了",
+    "rule": "Sentence-final 了 signals a new situation or a change of state.",
+    "examples": [
+      { "cn": "天气冷了。", "py": "Tiānqì lěng le.", "en": "The weather has become cold.", "breakdown": [{ "w": "天气", "r": "tiānqì", "t": "subject" }, { "w": "冷", "r": "lěng", "t": "new state" }, { "w": "了", "r": "le", "t": "change marker" }] }
+    ],
+    "mistakes": ["Wrong: 我昨天忙了 for a simple past description.", "Better: 我昨天很忙。"],
+    "tip": "Ask whether something became true. If yes, final 了 may fit."
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "title": "在 for location and ongoing action",
+    "rule": "在 can mark location before a place, or ongoing action before a verb.",
+    "examples": [
+      { "cn": "他在学校学习。", "py": "Tā zài xuéxiào xuéxí.", "en": "He studies at school.", "breakdown": [{ "w": "他", "r": "tā", "t": "subject" }, { "w": "在学校", "r": "zài xuéxiào", "t": "location" }, { "w": "学习", "r": "xuéxí", "t": "verb" }] },
+      { "cn": "我在看书。", "py": "Wǒ zài kàn shū.", "en": "I am reading.", "breakdown": [{ "w": "我", "r": "wǒ", "t": "subject" }, { "w": "在", "r": "zài", "t": "progressive" }, { "w": "看书", "r": "kàn shū", "t": "action" }] }
+    ],
+    "mistakes": ["Wrong: 我看书在。", "Correct: 我在看书。"],
+    "tip": "Location 在 + place comes before the main verb."
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "title": "会, 能, 可以",
+    "rule": "会 is learned ability or likelihood, 能 is physical/conditional ability, 可以 is permission or acceptability.",
+    "examples": [
+      { "cn": "我会说中文。", "py": "Wǒ huì shuō Zhōngwén.", "en": "I can speak Chinese.", "breakdown": [{ "w": "我", "r": "wǒ", "t": "subject" }, { "w": "会", "r": "huì", "t": "learned ability" }, { "w": "说中文", "r": "shuō Zhōngwén", "t": "action" }] }
+    ],
+    "mistakes": ["Wrong: 我可以游泳 if you mean learned skill.", "Better: 我会游泳。"],
+    "tip": "For permission questions, 可以 is usually the safest: 我可以进来吗？"
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "title": "Past negation with 没",
+    "rule": "Use 没 or 没有 to negate completed past actions and 有.",
+    "examples": [
+      { "cn": "我昨天没去学校。", "py": "Wǒ zuótiān méi qù xuéxiào.", "en": "I did not go to school yesterday.", "breakdown": [{ "w": "我", "r": "wǒ", "t": "subject" }, { "w": "昨天", "r": "zuótiān", "t": "time" }, { "w": "没", "r": "méi", "t": "past negation" }, { "w": "去学校", "r": "qù xuéxiào", "t": "action" }] }
+    ],
+    "mistakes": ["Wrong: 我昨天不去学校 for a completed past event.", "Correct: 我昨天没去学校。"],
+    "tip": "不 negates intention or habit; 没 negates occurrence/completion."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "title": "因为...所以...",
+    "rule": "因为 gives the reason and 所以 gives the result. Chinese often keeps both connectors.",
+    "examples": [
+      { "cn": "因为下雨，所以我没去。", "py": "Yīnwèi xià yǔ, suǒyǐ wǒ méi qù.", "en": "Because it rained, I did not go.", "breakdown": [{ "w": "因为", "r": "yīnwèi", "t": "because" }, { "w": "下雨", "r": "xià yǔ", "t": "reason" }, { "w": "所以", "r": "suǒyǐ", "t": "therefore" }, { "w": "我没去", "r": "wǒ méi qù", "t": "result" }] }
+    ],
+    "mistakes": ["In English avoid because...so..., but Chinese can use 因为...所以....", "Do not put 所以 before the reason."],
+    "tip": "In casual speech, one connector may be omitted when context is clear."
+  },
+  {
+    "id": 13,
+    "level": 3,
+    "title": "虽然...但是...",
+    "rule": "虽然 introduces a concession and 但是 introduces the contrast.",
+    "examples": [
+      { "cn": "虽然很难，但是我会坚持。", "py": "Suīrán hěn nán, dànshì wǒ huì jiānchí.", "en": "Although it is difficult, I will persist.", "breakdown": [{ "w": "虽然", "r": "suīrán", "t": "although" }, { "w": "很难", "r": "hěn nán", "t": "condition" }, { "w": "但是", "r": "dànshì", "t": "but" }, { "w": "我会坚持", "r": "wǒ huì jiānchí", "t": "contrast" }] }
+    ],
+    "mistakes": ["Wrong: 虽然很难，我会坚持。", "Better: 虽然很难，但是我会坚持。"],
+    "tip": "但是 can be shortened to 但 in speech and writing."
+  },
+  {
+    "id": 14,
+    "level": 3,
+    "title": "一边...一边...",
+    "rule": "Use 一边...一边... for two actions happening at the same time.",
+    "examples": [
+      { "cn": "她一边听音乐一边写作业。", "py": "Tā yìbiān tīng yīnyuè yìbiān xiě zuòyè.", "en": "She listens to music while doing homework.", "breakdown": [{ "w": "她", "r": "tā", "t": "subject" }, { "w": "一边听音乐", "r": "yìbiān tīng yīnyuè", "t": "action 1" }, { "w": "一边写作业", "r": "yìbiān xiě zuòyè", "t": "action 2" }] }
+    ],
+    "mistakes": ["Use it for simultaneous actions, not sequence.", "For sequence use 先...再...."],
+    "tip": "The subject can appear before the first 一边."
+  },
+  {
+    "id": 15,
+    "level": 3,
+    "title": "把 sentence basics",
+    "rule": "把 moves a definite object before the verb when the sentence focuses on how the object is handled or changed.",
+    "examples": [
+      { "cn": "请把书放在桌子上。", "py": "Qǐng bǎ shū fàng zài zhuōzi shang.", "en": "Please put the book on the table.", "breakdown": [{ "w": "请", "r": "qǐng", "t": "please" }, { "w": "把书", "r": "bǎ shū", "t": "handled object" }, { "w": "放在桌子上", "r": "fàng zài zhuōzi shang", "t": "result/location" }] }
+    ],
+    "mistakes": ["Wrong: 把一本书看。", "Correct: 把书看完。"],
+    "tip": "A 把 sentence usually needs a result, direction, location, or complement after the verb."
+  },
+  {
+    "id": 16,
+    "level": 3,
+    "title": "被 passive",
+    "rule": "被 marks the doer in passive sentences, often when something happens to the subject.",
+    "examples": [
+      { "cn": "我的手机被他拿走了。", "py": "Wǒ de shǒujī bèi tā ná zǒu le.", "en": "My phone was taken away by him.", "breakdown": [{ "w": "我的手机", "r": "wǒ de shǒujī", "t": "affected subject" }, { "w": "被他", "r": "bèi tā", "t": "agent" }, { "w": "拿走了", "r": "ná zǒu le", "t": "action result" }] }
+    ],
+    "mistakes": ["被 is common for unpleasant or affected situations.", "Neutral passives often use no 被 at all."],
+    "tip": "被 can omit the agent: 手机被拿走了。"
+  },
+  {
+    "id": 17,
+    "level": 3,
+    "title": "越来越",
+    "rule": "越来越 + adjective or verb phrase means more and more.",
+    "examples": [
+      { "cn": "中文越来越有意思。", "py": "Zhōngwén yuèláiyuè yǒu yìsi.", "en": "Chinese is becoming more and more interesting.", "breakdown": [{ "w": "中文", "r": "Zhōngwén", "t": "subject" }, { "w": "越来越", "r": "yuèláiyuè", "t": "more and more" }, { "w": "有意思", "r": "yǒu yìsi", "t": "quality" }] }
+    ],
+    "mistakes": ["Wrong: 很越来越好。", "Correct: 越来越好。"],
+    "tip": "For two linked variables, use 越...越...: 越学越喜欢。"
+  },
+  {
+    "id": 18,
+    "level": 3,
+    "title": "又 and 再",
+    "rule": "又 means again for something that has happened; 再 means again for something future or requested.",
+    "examples": [
+      { "cn": "他昨天来了，今天又来了。", "py": "Tā zuótiān lái le, jīntiān yòu lái le.", "en": "He came yesterday and came again today.", "breakdown": [{ "w": "昨天来了", "r": "zuótiān lái le", "t": "past event" }, { "w": "又来了", "r": "yòu lái le", "t": "again occurred" }] },
+      { "cn": "请再说一遍。", "py": "Qǐng zài shuō yí biàn.", "en": "Please say it again.", "breakdown": [{ "w": "请", "r": "qǐng", "t": "please" }, { "w": "再", "r": "zài", "t": "again future" }, { "w": "说一遍", "r": "shuō yí biàn", "t": "say once" }] }
+    ],
+    "mistakes": ["Wrong: 请又说一遍。", "Correct: 请再说一遍。"],
+    "tip": "Past again: 又. Future/request again: 再."
+  },
+  {
+    "id": 19,
+    "level": 4,
+    "title": "不仅...而且...",
+    "rule": "Use 不仅...而且... to add a stronger second point: not only...but also....",
+    "examples": [
+      { "cn": "他不仅聪明，而且很努力。", "py": "Tā bùjǐn cōngming, érqiě hěn nǔlì.", "en": "He is not only smart but also hardworking.", "breakdown": [{ "w": "他", "r": "tā", "t": "subject" }, { "w": "不仅聪明", "r": "bùjǐn cōngming", "t": "first point" }, { "w": "而且很努力", "r": "érqiě hěn nǔlì", "t": "added point" }] }
+    ],
+    "mistakes": ["Wrong: 不仅...但是... for plain addition.", "Correct: 不仅...而且...."],
+    "tip": "The second clause often carries the more important information."
+  },
+  {
+    "id": 20,
+    "level": 4,
+    "title": "只要...就...",
+    "rule": "只要 gives a sufficient condition; 就 introduces what will happen if that condition is met.",
+    "examples": [
+      { "cn": "只要你坚持，就会进步。", "py": "Zhǐyào nǐ jiānchí, jiù huì jìnbù.", "en": "As long as you persist, you will improve.", "breakdown": [{ "w": "只要", "r": "zhǐyào", "t": "as long as" }, { "w": "你坚持", "r": "nǐ jiānchí", "t": "condition" }, { "w": "就会进步", "r": "jiù huì jìnbù", "t": "result" }] }
+    ],
+    "mistakes": ["只要 is not the same as 只有.", "只要 = as long as; 只有...才 = only if."],
+    "tip": "Use 就 to make the condition-result relationship crisp."
+  },
+  {
+    "id": 21,
+    "level": 4,
+    "title": "只有...才...",
+    "rule": "只有 marks a necessary condition; 才 introduces the result that happens only under that condition.",
+    "examples": [
+      { "cn": "只有多练习，才会说得流利。", "py": "Zhǐyǒu duō liànxí, cái huì shuō de liúlì.", "en": "Only by practicing a lot can you speak fluently.", "breakdown": [{ "w": "只有", "r": "zhǐyǒu", "t": "only if" }, { "w": "多练习", "r": "duō liànxí", "t": "condition" }, { "w": "才会", "r": "cái huì", "t": "then can" }, { "w": "说得流利", "r": "shuō de liúlì", "t": "result" }] }
+    ],
+    "mistakes": ["Wrong: 只有...就... for only if.", "Correct: 只有...才...."],
+    "tip": "Compare: 只要努力就会进步; 只有努力才会进步."
+  },
+  {
+    "id": 22,
+    "level": 4,
+    "title": "无论/不管...都...",
+    "rule": "无论 or 不管 means no matter; 都 or 也 marks the unchanged result.",
+    "examples": [
+      { "cn": "不管多忙，我都要学习中文。", "py": "Bùguǎn duō máng, wǒ dōu yào xuéxí Zhōngwén.", "en": "No matter how busy I am, I will study Chinese.", "breakdown": [{ "w": "不管", "r": "bùguǎn", "t": "no matter" }, { "w": "多忙", "r": "duō máng", "t": "condition range" }, { "w": "我都要学习", "r": "wǒ dōu yào xuéxí", "t": "unchanged result" }] }
+    ],
+    "mistakes": ["Do not forget 都/也 in the result clause.", "无论 is more formal than 不管."],
+    "tip": "Pattern: 不管 + question phrase/adjective + 都/也 + result."
+  },
+  {
+    "id": 23,
+    "level": 4,
+    "title": "连...都/也...",
+    "rule": "连 highlights an extreme or surprising example; 都/也 emphasizes inclusion.",
+    "examples": [
+      { "cn": "这个字连老师都不认识。", "py": "Zhège zì lián lǎoshī dōu bú rènshi.", "en": "Even the teacher does not know this character.", "breakdown": [{ "w": "这个字", "r": "zhège zì", "t": "topic" }, { "w": "连老师", "r": "lián lǎoshī", "t": "even teacher" }, { "w": "都不认识", "r": "dōu bú rènshi", "t": "emphasized predicate" }] }
+    ],
+    "mistakes": ["Wrong: 连老师不认识。", "Correct: 连老师都不认识。"],
+    "tip": "The item after 连 should be remarkable in context."
+  },
+  {
+    "id": 24,
+    "level": 4,
+    "title": "得 complement of degree",
+    "rule": "得 after a verb links the action to a degree or evaluation.",
+    "examples": [
+      { "cn": "他说中文说得很流利。", "py": "Tā shuō Zhōngwén shuō de hěn liúlì.", "en": "He speaks Chinese fluently.", "breakdown": [{ "w": "他说中文", "r": "tā shuō Zhōngwén", "t": "action" }, { "w": "说得", "r": "shuō de", "t": "verb + degree marker" }, { "w": "很流利", "r": "hěn liúlì", "t": "degree/evaluation" }] }
+    ],
+    "mistakes": ["For verb-object phrases, repeat the verb before 得.", "Remember 的 modifies nouns, 地 modifies verbs, 得 comments after verbs."],
+    "tip": "得 complements are useful for describing how well, fast, clearly, or badly an action is done."
+  }
+]

@@ -1,0 +1,122 @@
+{
+  "version": "1.0.0",
+  "notes": "Admin-editable verified learning content. Add new words, readings, listening items, and exercises here using the same structures.",
+  "vocabulary": {
+    "1": [
+      { "word": "我", "pinyin": "wǒ", "meaning": "I; me", "hsk": 1, "example": "我是学生。", "exampleMeaning": "I am a student.", "tags": ["pronoun"] },
+      { "word": "你", "pinyin": "nǐ", "meaning": "you", "hsk": 1, "example": "你好吗？", "exampleMeaning": "How are you?", "tags": ["pronoun"] },
+      { "word": "好", "pinyin": "hǎo", "meaning": "good; well", "hsk": 1, "example": "今天天气很好。", "exampleMeaning": "The weather is good today.", "tags": ["adjective"] },
+      { "word": "是", "pinyin": "shì", "meaning": "to be; yes", "hsk": 1, "example": "他是老师。", "exampleMeaning": "He is a teacher.", "tags": ["verb"] },
+      { "word": "不", "pinyin": "bù", "meaning": "not; no", "hsk": 1, "example": "我不喝茶。", "exampleMeaning": "I do not drink tea.", "tags": ["adverb"] },
+      { "word": "水", "pinyin": "shuǐ", "meaning": "water", "hsk": 1, "example": "我想喝水。", "exampleMeaning": "I want to drink water.", "tags": ["noun"] },
+      { "word": "吃", "pinyin": "chī", "meaning": "to eat", "hsk": 1, "example": "我吃米饭。", "exampleMeaning": "I eat rice.", "tags": ["verb"] },
+      { "word": "喝", "pinyin": "hē", "meaning": "to drink", "hsk": 1, "example": "她喝咖啡。", "exampleMeaning": "She drinks coffee.", "tags": ["verb"] },
+      { "word": "学校", "pinyin": "xuéxiào", "meaning": "school", "hsk": 1, "example": "我去学校。", "exampleMeaning": "I go to school.", "tags": ["place"] },
+      { "word": "老师", "pinyin": "lǎoshī", "meaning": "teacher", "hsk": 1, "example": "老师很好。", "exampleMeaning": "The teacher is very good.", "tags": ["person"] },
+      { "word": "朋友", "pinyin": "péngyou", "meaning": "friend", "hsk": 1, "example": "她是我的朋友。", "exampleMeaning": "She is my friend.", "tags": ["person"] },
+      { "word": "学习", "pinyin": "xuéxí", "meaning": "to study; to learn", "hsk": 1, "example": "我学习中文。", "exampleMeaning": "I study Chinese.", "tags": ["verb"] },
+      { "word": "中文", "pinyin": "Zhōngwén", "meaning": "Chinese language", "hsk": 1, "example": "中文很有意思。", "exampleMeaning": "Chinese is interesting.", "tags": ["language"] },
+      { "word": "北京", "pinyin": "Běijīng", "meaning": "Beijing", "hsk": 1, "example": "我住在北京。", "exampleMeaning": "I live in Beijing.", "tags": ["place"] },
+      { "word": "今天", "pinyin": "jīntiān", "meaning": "today", "hsk": 1, "example": "今天我很忙。", "exampleMeaning": "I am busy today.", "tags": ["time"] }
+    ],
+    "2": [
+      { "word": "食物", "pinyin": "shíwù", "meaning": "food", "hsk": 2, "example": "我喜欢中国食物。", "exampleMeaning": "I like Chinese food.", "tags": ["noun"] },
+      { "word": "吃的", "pinyin": "chī de", "meaning": "food; things to eat", "hsk": 2, "example": "这里有很多吃的。", "exampleMeaning": "There is a lot of food here.", "tags": ["noun"] },
+      { "word": "因为", "pinyin": "yīnwèi", "meaning": "because", "hsk": 2, "example": "因为下雨，我不去公园。", "exampleMeaning": "Because it is raining, I will not go to the park.", "tags": ["conjunction"] },
+      { "word": "所以", "pinyin": "suǒyǐ", "meaning": "so; therefore", "hsk": 2, "example": "我很累，所以想休息。", "exampleMeaning": "I am tired, so I want to rest.", "tags": ["conjunction"] },
+      { "word": "时间", "pinyin": "shíjiān", "meaning": "time", "hsk": 2, "example": "你有时间吗？", "exampleMeaning": "Do you have time?", "tags": ["noun"] },
+      { "word": "觉得", "pinyin": "juéde", "meaning": "to feel; to think", "hsk": 2, "example": "我觉得中文不难。", "exampleMeaning": "I think Chinese is not difficult.", "tags": ["verb"] },
+      { "word": "已经", "pinyin": "yǐjīng", "meaning": "already", "hsk": 2, "example": "他已经回家了。", "exampleMeaning": "He has already gone home.", "tags": ["adverb"] },
+      { "word": "准备", "pinyin": "zhǔnbèi", "meaning": "to prepare", "hsk": 2, "example": "我准备考试。", "exampleMeaning": "I am preparing for an exam.", "tags": ["verb"] },
+      { "word": "公共汽车", "pinyin": "gōnggòng qìchē", "meaning": "bus", "hsk": 2, "example": "我坐公共汽车去学校。", "exampleMeaning": "I take the bus to school.", "tags": ["transport"] },
+      { "word": "天气", "pinyin": "tiānqì", "meaning": "weather", "hsk": 2, "example": "今天天气很好。", "exampleMeaning": "The weather is good today.", "tags": ["noun"] }
+    ],
+    "3": [
+      { "word": "影响", "pinyin": "yǐngxiǎng", "meaning": "to influence; influence", "hsk": 3, "example": "天气影响我的心情。", "exampleMeaning": "The weather affects my mood.", "tags": ["verb", "noun"] },
+      { "word": "环境", "pinyin": "huánjìng", "meaning": "environment", "hsk": 3, "example": "保护环境很重要。", "exampleMeaning": "Protecting the environment is important.", "tags": ["noun"] },
+      { "word": "经验", "pinyin": "jīngyàn", "meaning": "experience", "hsk": 3, "example": "他有很多工作经验。", "exampleMeaning": "He has a lot of work experience.", "tags": ["noun"] },
+      { "word": "发展", "pinyin": "fāzhǎn", "meaning": "to develop; development", "hsk": 3, "example": "这个城市发展很快。", "exampleMeaning": "This city is developing quickly.", "tags": ["verb", "noun"] },
+      { "word": "虽然", "pinyin": "suīrán", "meaning": "although", "hsk": 3, "example": "虽然很难，但是我想试试。", "exampleMeaning": "Although it is difficult, I want to try.", "tags": ["conjunction"] },
+      { "word": "而且", "pinyin": "érqiě", "meaning": "moreover; and also", "hsk": 3, "example": "他聪明，而且很努力。", "exampleMeaning": "He is smart and also hardworking.", "tags": ["conjunction"] },
+      { "word": "提高", "pinyin": "tígāo", "meaning": "to improve; to raise", "hsk": 3, "example": "我要提高听力。", "exampleMeaning": "I want to improve my listening.", "tags": ["verb"] },
+      { "word": "发现", "pinyin": "fāxiàn", "meaning": "to discover; to find", "hsk": 3, "example": "我发现这个方法很好。", "exampleMeaning": "I found this method is good.", "tags": ["verb"] },
+      { "word": "选择", "pinyin": "xuǎnzé", "meaning": "to choose; choice", "hsk": 3, "example": "你可以选择一个答案。", "exampleMeaning": "You can choose one answer.", "tags": ["verb", "noun"] },
+      { "word": "关系", "pinyin": "guānxi", "meaning": "relationship; relation", "hsk": 3, "example": "学习和练习有很大关系。", "exampleMeaning": "Study and practice are closely related.", "tags": ["noun"] }
+    ],
+    "4": [
+      { "word": "停止", "pinyin": "tíngzhǐ", "meaning": "to stop; to halt", "hsk": 4, "example": "请停止说话。", "exampleMeaning": "Please stop talking.", "tags": ["verb"] },
+      { "word": "停", "pinyin": "tíng", "meaning": "to stop; to park", "hsk": 4, "example": "车停在门口。", "exampleMeaning": "The car stopped at the entrance.", "tags": ["verb"] },
+      { "word": "坚持", "pinyin": "jiānchí", "meaning": "to persist; to insist", "hsk": 4, "example": "学习中文要坚持。", "exampleMeaning": "Learning Chinese requires persistence.", "tags": ["verb"] },
+      { "word": "复杂", "pinyin": "fùzá", "meaning": "complex; complicated", "hsk": 4, "example": "这个问题很复杂。", "exampleMeaning": "This problem is complex.", "tags": ["adjective"] },
+      { "word": "逐渐", "pinyin": "zhújiàn", "meaning": "gradually", "hsk": 4, "example": "天气逐渐变冷了。", "exampleMeaning": "The weather gradually became cold.", "tags": ["adverb"] },
+      { "word": "承认", "pinyin": "chéngrèn", "meaning": "to admit; to acknowledge", "hsk": 4, "example": "他承认自己错了。", "exampleMeaning": "He admitted that he was wrong.", "tags": ["verb"] },
+      { "word": "责任", "pinyin": "zérèn", "meaning": "responsibility", "hsk": 4, "example": "每个人都有责任。", "exampleMeaning": "Everyone has responsibility.", "tags": ["noun"] },
+      { "word": "态度", "pinyin": "tàidu", "meaning": "attitude", "hsk": 4, "example": "他的学习态度很好。", "exampleMeaning": "His attitude toward study is good.", "tags": ["noun"] },
+      { "word": "调查", "pinyin": "diàochá", "meaning": "to investigate; survey", "hsk": 4, "example": "老师做了一个调查。", "exampleMeaning": "The teacher did a survey.", "tags": ["verb", "noun"] },
+      { "word": "解决", "pinyin": "jiějué", "meaning": "to solve; to resolve", "hsk": 4, "example": "我们要解决这个问题。", "exampleMeaning": "We need to solve this problem.", "tags": ["verb"] }
+    ]
+  },
+  "readingTopics": {
+    "1": ["我的一天", "我的家", "在学校", "买水果", "喝水", "我的朋友", "天气很好", "看书", "去北京", "学中文", "吃早饭", "我的老师", "坐车", "打电话", "星期天", "小商店", "我的房间", "中国茶", "生日", "晚上回家"],
+    "2": ["周末计划", "在饭馆", "去医院", "买衣服", "运动以后", "天气变化", "准备考试", "公共汽车", "朋友来家", "找工作", "看电影", "旅游计划", "生日礼物", "学习时间", "咖啡店", "问路", "做饭", "搬家", "去银行", "手机坏了"],
+    "3": ["学习方法", "城市生活", "一次面试", "健康习惯", "网络购物", "环境保护", "旅行经历", "工作经验", "文化活动", "选择专业", "运动比赛", "邻居关系", "计划改变", "节日聚会", "提高听力", "家乡变化", "志愿活动", "图书馆学习", "解决问题", "重要决定"],
+    "4": ["考试压力", "职业发展", "环境调查", "公共交通", "文化差异", "团队合作", "长期计划", "消费习惯", "网络影响", "城市管理", "健康责任", "教育变化", "传统节日", "个人态度", "社会经验", "学习坚持", "信息安全", "旅游服务", "阅读习惯", "解决矛盾"]
+  },
+  "readings": {
+    "1": [
+      {
+        "title": "我的早上",
+        "titleEn": "My Morning",
+        "text": "今天早上我喝水，也学习中文。老师很好，我很高兴。",
+        "pinyin": "Jīntiān zǎoshang wǒ hē shuǐ, yě xuéxí Zhōngwén. Lǎoshī hěn hǎo, wǒ hěn gāoxìng.",
+        "translation": "This morning I drink water and study Chinese. The teacher is good, and I am happy.",
+        "words": [
+          { "word": "今天", "pinyin": "jīntiān", "meaning": "today", "grammar": "time" },
+          { "word": "喝", "pinyin": "hē", "meaning": "to drink", "grammar": "verb" },
+          { "word": "学习", "pinyin": "xuéxí", "meaning": "to study", "grammar": "verb" }
+        ],
+        "questions": [
+          { "question": "他今天早上做什么？", "answer": "喝水和学习中文" },
+          { "question": "老师怎么样？", "answer": "很好" },
+          { "question": "他高兴吗？", "answer": "高兴" }
+        ]
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": []
+  },
+  "listening": {
+    "1": [
+      {
+        "sentence": "我今天去学校学习中文。",
+        "question": "他说今天去哪儿？",
+        "choices": ["学校", "饭馆", "银行", "医院"],
+        "answer": "学校",
+        "explanation": "关键词是“去学校”。"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": []
+  },
+  "exercises": {
+    "1": [
+      {
+        "type": "fill in the blank",
+        "prompt": "我____中文。",
+        "answer": "学习",
+        "explanation": "学习 means to study or learn."
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": []
+  },
+  "exerciseFocus": {
+    "1": ["SVO word order", "numbers and measure words", "basic questions", "negative 不", "time words"],
+    "2": ["因为...所以", "了 for completion", "modal verbs", "daily-life vocabulary", "question particles"],
+    "3": ["虽然...但是", "把 sentences", "comparison", "sentence correction", "translation"],
+    "4": ["complex connectors", "paragraph comprehension", "formal vocabulary", "result complements", "exam-style correction"]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "version": "1.0.0",
+  "sourcePolicy": "HSK Standard Course PDFs are the preferred source for lesson order, vocabulary correction, grammar scope, and topic organization. Full copyrighted textbook dialogues/readings are not copied verbatim; the app uses short references and original practice generated from verified lesson topics and local vocabulary.",
+  "extractionStatus": {
+    "1": {
+      "book": "HSK standard course 1 PDF.pdf",
+      "textLayer": "scanned_or_blank",
+      "status": "Needs OCR/text-layer PDF before exact dialogue and reading import."
+    },
+    "2": {
+      "book": "HSK 2 standard course_text (1).pdf",
+      "textLayer": "partial",
+      "status": "English lesson titles and grammar outline were readable. Chinese text extraction is damaged, so exact dialogues/readings are not imported verbatim."
+    },
+    "3": {
+      "book": "HSK-3-standard-course-pdf.pdf",
+      "textLayer": "scanned_or_blank",
+      "status": "Needs OCR/text-layer PDF before exact dialogue and reading import."
+    },
+    "4A": {
+      "book": "HSK 4A standard course_text.pdf",
+      "textLayer": "partial",
+      "status": "English lesson titles were readable. Chinese text extraction is damaged, so exact dialogues/readings are not imported verbatim."
+    },
+    "4B": {
+      "book": "HSK Standard Course Level 4 (2).pdf",
+      "textLayer": "scanned_or_blank",
+      "status": "Needs OCR/text-layer PDF before exact dialogue and reading import."
+    },
+    "5A": {
+      "book": "HSK Standard Course Level 5 (I).pdf",
+      "textLayer": "scanned_or_blank",
+      "status": "Analyzed 198-page uploaded PDF. Text extraction returned page markers only, so exact textbook vocabulary, dialogues, and readings require OCR before faithful import."
+    }
+  },
+  "levels": {
+    "1": {
+      "books": [
+        {
+          "id": "hsk1-standard-course",
+          "title": "HSK Standard Course 1",
+          "sourcePdf": "HSK standard course 1 PDF.pdf",
+          "sourceStatus": "OCR required",
+          "lessons": []
+        }
+      ]
+    },
+    "2": {
+      "books": [
+        {
+          "id": "hsk2-standard-course",
+          "title": "HSK Standard Course 2",
+          "sourcePdf": "HSK 2 standard course_text (1).pdf",
+          "sourceStatus": "Lesson titles and grammar outline extracted from readable text layer; Chinese text normalized for headings only.",
+          "lessons": [
+            {
+              "lesson": 1,
+              "titleCn": "九月去北京旅游最好",
+              "titlePinyin": "Jiǔ yuè qù Běijīng lǚyóu zuì hǎo",
+              "titleEn": "September is the best time to visit Beijing",
+              "grammar": ["Auxiliary verb 要", "Adverb of degree 最", "几 and 多 for approximate numbers"]
+            },
+            {
+              "lesson": 2,
+              "titleCn": "我每天六点起床",
+              "titlePinyin": "Wǒ měitiān liù diǎn qǐchuáng",
+              "titleEn": "I get up at six every day",
+              "grammar": ["Questions about time and quantity", "Pronoun 每", "Interrogative pronouns"]
+            },
+            {
+              "lesson": 3,
+              "titleCn": "左边那个红色的是我的",
+              "titlePinyin": "Zuǒbian nà ge hóngsè de shì wǒ de",
+              "titleEn": "The red one on the left is mine",
+              "grammar": ["The 的 phrase", "Numeral classifier 一下", "Modal adverbs"]
+            },
+            {
+              "lesson": 4,
+              "titleCn": "他推荐我来这家公司",
+              "titlePinyin": "Tā tuījiàn wǒ lái zhè jiā gōngsī",
+              "titleEn": "He recommended me for this job",
+              "grammar": ["是...的 for emphasis", "Time expressions", "Adverbs of time"]
+            },
+            {
+              "lesson": 5,
+              "titleCn": "就买这件吧",
+              "titlePinyin": "Jiù mǎi zhè jiàn ba",
+              "titleEn": "Take this one",
+              "grammar": ["Adverb 就", "Modal adverb 还", "Adverbial modifiers"]
+            },
+            {
+              "lesson": 6,
+              "titleCn": "你怎么不吃了",
+              "titlePinyin": "Nǐ zěnme bù chī le",
+              "titleEn": "Why don't you eat more",
+              "grammar": ["Interrogative pronoun 怎么", "Reduplication of measure words", "因为...所以"]
+            },
+            {
+              "lesson": 7,
+              "titleCn": "你家离公司远吗",
+              "titlePinyin": "Nǐ jiā lí gōngsī yuǎn ma",
+              "titleEn": "Do you live far from your company",
+              "grammar": ["Modal adverb 还", "Adverb of time 就", "Verb 离", "Modal particle 吧"]
+            },
+            {
+              "lesson": 8,
+              "titleCn": "让我想想再告诉你",
+              "titlePinyin": "Ràng wǒ xiǎngxiang zài gàosu nǐ",
+              "titleEn": "Let me think about it and I'll tell you later",
+              "grammar": ["是不是 questions", "Adverb 又", "Pivotal sentences", "Reduplication of verbs"]
+            },
+            {
+              "lesson": 9,
+              "titleCn": "题太多，我没做完",
+              "titlePinyin": "Tí tài duō, wǒ méi zuò wán",
+              "titleEn": "There were too many questions; I didn't finish all of them",
+              "grammar": ["Complements of result", "Preposition 从", "第 for order"]
+            },
+            {
+              "lesson": 10,
+              "titleCn": "别找了，手机在桌子上呢",
+              "titlePinyin": "Bié zhǎo le, shǒujī zài zhuōzi shàng ne",
+              "titleEn": "Stop looking for your cell phone; it's on the desk",
+              "grammar": ["Imperative sentences", "别...了 / 不要...了", "Preposition 对"]
+            },
+            {
+              "lesson": 11,
+              "titleCn": "他比我大三岁",
+              "titlePinyin": "Tā bǐ wǒ dà sān suì",
+              "titleEn": "He is three years older than me",
+              "grammar": ["Verb phrases as attributive modifiers", "比 sentences", "Auxiliary verb 会"]
+            },
+            {
+              "lesson": 12,
+              "titleCn": "你穿得太少了",
+              "titlePinyin": "Nǐ chuān de tài shǎo le",
+              "titleEn": "You wear too little",
+              "grammar": ["Complements of degree", "比 sentences"]
+            },
+            {
+              "lesson": 13,
+              "titleCn": "门开着呢",
+              "titlePinyin": "Mén kāi zhe ne",
+              "titleEn": "The door is open",
+              "grammar": ["Structural particle 着", "Rhetorical questions", "Prepositions"]
+            },
+            {
+              "lesson": 14,
+              "titleCn": "你看过那个电影吗",
+              "titlePinyin": "Nǐ kàn guo nà ge diànyǐng ma",
+              "titleEn": "Have you seen that movie",
+              "grammar": ["Structural particle 过", "虽然...但是", "Complement of frequency"]
+            },
+            {
+              "lesson": 15,
+              "titleCn": "新年就要到了",
+              "titlePinyin": "Xīnnián jiù yào dào le",
+              "titleEn": "The New Year is coming",
+              "grammar": ["Action state markers", "快要...了 / 就要...了"]
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "books": [
+        {
+          "id": "hsk3-standard-course",
+          "title": "HSK Standard Course 3",
+          "sourcePdf": "HSK-3-standard-course-pdf.pdf",
+          "sourceStatus": "OCR required",
+          "lessons": []
+        }
+      ]
+    },
+    "4": {
+      "books": [
+        {
+          "id": "hsk4a-standard-course",
+          "title": "HSK Standard Course 4A",
+          "sourcePdf": "HSK 4A standard course_text.pdf",
+          "sourceStatus": "English lesson titles extracted from readable text layer; Chinese headings normalized for lesson organization.",
+          "lessons": [
+            { "lesson": 1, "titleCn": "简单的爱情", "titlePinyin": "Jiǎndān de àiqíng", "titleEn": "Simple love", "grammar": [] },
+            { "lesson": 2, "titleCn": "真正的朋友", "titlePinyin": "Zhēnzhèng de péngyou", "titleEn": "A true friend", "grammar": [] },
+            { "lesson": 3, "titleCn": "经理对我印象不错", "titlePinyin": "Jīnglǐ duì wǒ yìnxiàng búcuò", "titleEn": "I've made a good impression on the manager", "grammar": [] },
+            { "lesson": 4, "titleCn": "不要太着急赚钱", "titlePinyin": "Bú yào tài zháojí zhuàn qián", "titleEn": "Don't be anxious to make money", "grammar": [] },
+            { "lesson": 5, "titleCn": "只买对的，不买贵的", "titlePinyin": "Zhǐ mǎi duì de, bù mǎi guì de", "titleEn": "Buy the right, not the expensive", "grammar": [] },
+            { "lesson": 6, "titleCn": "一分钱一分货", "titlePinyin": "Yì fēn qián yì fēn huò", "titleEn": "The higher the price, the better the quality", "grammar": [] },
+            { "lesson": 7, "titleCn": "最好的医生是自己", "titlePinyin": "Zuì hǎo de yīshēng shì zìjǐ", "titleEn": "The best doctor is yourself", "grammar": [] },
+            { "lesson": 8, "titleCn": "生活中不缺少美", "titlePinyin": "Shēnghuó zhōng bù quēshǎo měi", "titleEn": "Beauty is not rare in life", "grammar": [] },
+            { "lesson": 9, "titleCn": "阳光总在风雨后", "titlePinyin": "Yángguāng zǒng zài fēngyǔ hòu", "titleEn": "The sun will shine again after the storm", "grammar": [] },
+            { "lesson": 10, "titleCn": "幸福的标准", "titlePinyin": "Xìngfú de biāozhǔn", "titleEn": "Standards of happiness", "grammar": [] }
+          ]
+        },
+        {
+          "id": "hsk4b-standard-course",
+          "title": "HSK Standard Course 4B",
+          "sourcePdf": "HSK Standard Course Level 4 (2).pdf",
+          "sourceStatus": "OCR required",
+          "lessons": []
+        }
+      ]
+    },
+    "5": {
+      "books": [
+        {
+          "id": "hsk5a-standard-course",
+          "title": "HSK Standard Course 5A",
+          "sourcePdf": "HSK Standard Course Level 5 (I).pdf",
+          "sourceStatus": "Uploaded 198-page PDF analyzed; text layer is scanned_or_blank, OCR required before exact lesson titles/dialogues/readings can be imported.",
+          "lessons": []
+        }
+      ]
+    }
+  }
+}
